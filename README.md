@@ -1,3 +1,5 @@
+<img src="https://socialify.git.ci/izzalDev/secondhand-car-valuation/image?forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light" alt="secondhand-car-valuation" width="640" height="320" />
+
 # 🤖 Estimasi Harga Mobil Bekas dengan Regresi Linear
 
 Proyek ini menunjukkan bagaimana estimasi harga mobil bekas menggunakan `scikit-learn` dengan menggunakan algoritma regresi linear. Contoh implementasi di [link ini](https://izzalDev.github.io/secondhand-car-valuation).
