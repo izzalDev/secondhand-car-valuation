@@ -1,4 +1,6 @@
-<img src="https://socialify.git.ci/izzalDev/secondhand-car-valuation/image?forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light" alt="secondhand-car-valuation" width="640" height="320" />
+<div align="center">
+    <img src="https://socialify.git.ci/izzalDev/secondhand-car-valuation/image?forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light" alt="secondhand-car-valuation" width="640" height="320" />    
+</div>
 
 # 🤖 Estimasi Harga Mobil Bekas dengan Regresi Linear
 
